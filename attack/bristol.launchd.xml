@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- bristol.launchd.xml -->
+
+<launch>
+    <copy file="bristol.net.xml" />
+    <copy file="bristol.rou.xml" />
+    <copy file="bristol.poly.xml" />
+    <copy file="bristol.sumo.cfg" type="config" />
+</launch>

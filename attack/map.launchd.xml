@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- map.launchd.xml -->
+
+<launch>
+    <copy file="map_filter_upgrade_traffic.net.xml" />
+    <copy file="test.rou.xml" />
+    <copy file="map.poly.xml" />
+    <copy file="test.sumo.cfg" type="config" />
+</launch>
